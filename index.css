@@ -20,6 +20,7 @@
     align-items: center;
     position: relative;
 }
+
 .clock::before{
     content: "";
     height: 8px;

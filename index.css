@@ -19,8 +19,9 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    
+
 }
+
 
 .clock::before{
     content: "";

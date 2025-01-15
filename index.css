@@ -7,6 +7,7 @@
    position: relative;
    background-image: linear-gradient(black, rgb(74, 74, 66));
 }
+
 .clock{
     height: 300px;
     width: 300px;
@@ -15,18 +16,12 @@
     background-repeat: no-repeat;
     border: 5px solid rgb(0, 0, 0);
     border-radius: 50%;
-
-
-    
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
 
 }
-
-
-
 .clock::before{
     content: "";
     height: 8px;

@@ -8,6 +8,7 @@ let hr = document.querySelector(".hand.hours");
 
 
 
+
 let min = document.querySelector(".hand.minute");
 let sec = document.querySelector(".hand.second");
 
